@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://charleston-sc.lemurianstudios.com/sitemap.xml
